@@ -1,0 +1,110 @@
+{
+    "board": [
+        {
+            "id": 1,
+            "title": "첫번째",
+            "content": "게시물 ㅎㅇ 수정됨!",
+            "views": 21,
+            "date": 1614501551917,
+            "editDate": 1615201930017
+        },
+        {
+            "id": 2,
+            "title": "두번째 게시물",
+            "content": "222222222\nupdated",
+            "views": 40,
+            "date": 1614501561803,
+            "editDate": 1615116496645
+        },
+        {
+            "id": 3,
+            "title": "세번째 게시물",
+            "content": "롸랄라ㅏ라",
+            "views": 4,
+            "date": 1615117548954,
+            "editDate": ""
+        },
+        {
+            "id": 4,
+            "title": "네번째 게시물",
+            "content": "네번째 ㅇ뢀ㄹ",
+            "views": 1,
+            "date": 1615121288796,
+            "editDate": ""
+        },
+        {
+            "id": 5,
+            "title": "다섯번째게시물",
+            "content": "엥 근데 삭제가 완전삭제가 아닌건강",
+            "views": 1,
+            "date": 1615121305101,
+            "editDate": ""
+        },
+        {
+            "id": 6,
+            "title": "주말 끝",
+            "content": "ㅠㅠ",
+            "views": 1,
+            "date": 1615121324660,
+            "editDate": ""
+        },
+        {
+            "id": 7,
+            "title": "스터디 화이팅",
+            "content": "토이플젝도 화이팅 아 진짜 어렵다 수정됨!",
+            "views": 7,
+            "date": 1615121346635,
+            "editDate": 1615202005481
+        },
+        {
+            "id": 8,
+            "title": "1231231",
+            "content": "000000",
+            "views": 3,
+            "date": 1616494736364,
+            "editDate": 1616495968871
+        },
+        {
+            "id": 12,
+            "title": "제발",
+            "content": "제발",
+            "views": 2,
+            "date": 1616496088354,
+            "editDate": ""
+        },
+        {
+            "id": 13,
+            "title": "끝",
+            "content": "합치기 끝",
+            "views": 3,
+            "date": 1616496476025,
+            "editDate": ""
+        }
+    ],
+    "comment": [
+        {
+            "id": 1,
+            "content": "따호혹",
+            "date": 1614505181821,
+            "articleId": 4
+        },
+        {
+            "id": 2,
+            "content": "댓글댓글",
+            "date": 1614505189967,
+            "articleId": 4
+        },
+        {
+            "id": 3,
+            "content": "리액트 어려워",
+            "date": 1614505206773,
+            "articleId": 4
+        },
+        {
+            "id": 4,
+            "content": "와랄룰",
+            "date": 1614505213848,
+            "articleId": 3
+        }
+    ]
+}
